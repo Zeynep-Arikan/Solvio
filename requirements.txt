@@ -2,3 +2,6 @@ langchain
 langchain-community
 huggingface_hub
 python-dotenv
+beautifulsoup4
+requests
+
